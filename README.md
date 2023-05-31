@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Ali <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="30px" height="30px" alt="hi"></h1>
+<h1 align="center"><img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="30px" height="30px" alt="hi">Hi, I'm Ali</h1>
 <h3 align="center">A passionate Computer Science student</h3>
 
 <img align="right" width=200px src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif">
